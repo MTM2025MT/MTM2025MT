@@ -1,8 +1,8 @@
 # Hi there, I'm Mohamed 👋
 
-### Full-Stack Developer | Software Engineering Student (Class of 2026)
+### Software Engineering | Full-Stack Developer 
 
-I am a software engineering student based inIstanbul / Saudi Arabia (Hafar) (Current GPA: 3.26), building scalable web applications and exploring the deep mechanics of backend architecture. I enjoy breaking down complex technical concepts and applying clean architecture and SOLID principles to my projects. 
+I am a software engineering  based inIstanbul / Saudi Arabia (Hafar) (Current GPA: 3.26), building scalable web applications and exploring the deep mechanics of backend architecture. I enjoy breaking down complex technical concepts and applying clean architecture and SOLID principles to my projects. 
 
 ## 🛠️ Tech Stack & Focus
 * **Backend:** C#, ASP.NET Core, Entity Framework Core, gRPC
